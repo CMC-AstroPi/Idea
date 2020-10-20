@@ -6,7 +6,7 @@
 - [1. Short Presentation...](#1-Short-Presentation)
 - [2. What we expect...](#2-What-we-expect)
 - [3. A little theory...](#3-A-little-theory)
-- [4. The project](#4-The-project)
+- [4. The project...](#4-The-project)
 - [5. Data collection...](#5-Data-collection)
 - [6. Data analysis...](#6-Data-analysis)
 
@@ -63,7 +63,7 @@ flow of charged particles that travels through space along with its strong
 magnetic field. But this magnetic field placed between the Sun and the Earth
 deflects cosmic rays.
 
-## 4. The project
+## 4. The project...
 Our project consists of verifying a correlation between the magnetic field, the
 formation of clouds, the climate and cosmic rays as we have treated in the
 previous point.

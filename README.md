@@ -16,7 +16,7 @@ Hi, we are the C.M.C. team (Clouds and Magnetic field Correlation) and we
 come from Cuneo.
 
 We are two guys named [**Isabella Bianco**](github.com/IsabellaBianco) and [**Gabriele Ferrero**](github.com/GabrieleFerrero) and we attend
-the fourth grade, branch smart robot of ITIS Mario Delpozzo in Cuneo.
+the fourth grade, branch smart robot of [**ITIS Mario Delpozzo in Cuneo**](www.itiscuneo.gov.it).
  
 ## 2. What we expect ...
 The objectives of our project are the following:

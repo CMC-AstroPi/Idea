@@ -1,14 +1,14 @@
 [**AstroPi**](https://astro-pi.org/)
 
-# CMC
-> **C**louds and **M**agnetic field **C**correlation
+# CMC:
+**C**louds and **M**agnetic field **C**correlation
 
 - [1. Short Presentation...](#1-Short-Presentation)
-- [2. What we expect ...](#2-What-we-expect)
-- [3. A little theory ...](#3-A-little-theory ...)
+- [2. What we expect...](#2-What-we-expect)
+- [3. A little theory...](#3-A-little-theory)
 - [4. The project](#4-The-project)
-- [5. Data collection ...](#5-Data-collection ...)
-- [6. Data analysis ...](#6-Data-analysis ...)
+- [5. Data collection...](#5-Data-collection)
+- [6. Data analysis...](#6-Data-analysis)
 
 
 ## 1. Short Presentation...

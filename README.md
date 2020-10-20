@@ -20,6 +20,7 @@ the fourth grade, branch smart robot of ITIS Mario Delpozzo in Cuneo.
  
 ## 2. What we expect ...
 The objectives of our project are the following:
+
 ● to better understand the indirect influence of the magnetic field on life
   on planet Earth;
   
@@ -138,11 +139,3 @@ remotely given the very difficult period we are facing.
 A further reason is to keep our coach and our classmates up-to-date in what
 we have planned to do and to let all those passionate and curious people
 know what we are doing.
-
-
-
-
-
-
-
- 

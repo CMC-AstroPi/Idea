@@ -9,7 +9,7 @@
 - [4. The project...](#4-The-project)
 - [5. Data collection...](#5-Data-collection)
 - [6. Data analysis...](#6-Data-analysis)
-- [7.Where will we do our analyses ...](#7-Where-will-we-do-our-analyses)
+- [7. Where will we do our analyses ...](#7-Where-will-we-do-our-analyses)
 
 
 ## 1. Short Presentation...

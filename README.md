@@ -39,7 +39,7 @@ Cosmic rays are charged particles so they interfere with the Earth's magnetic
 field and can get there in two ways regarding the field, near the Equator or
 near the poles:
 
-● near the Equator, the particles of which cosmic rays are composed ar deflected backwards, but before being deflected by the magnetic field these particles that arrive at high speed react with the Earth's atmosphere, forming a particle, the neutrino, which like the name suggests is neutral and therefore doesn’t interact with the magnetic field, and passes through it. Later the free neutrons are unstable and then decay into electrons and protons that are trapped in the radiation belts. And this is why there are charged particles trapped in the atmosphere that hasn’t been deflected by the geomagnetic field.
+● near the Equator, the particles of which cosmic rays are composed ar deflected backwards, but before being deflected by the magnetic field these particles that  arrive at high speed react with the Earth's atmosphere, forming a particle, the neutrino, which like the name suggests is neutral and therefore doesn’t interact with the magnetic field, and passes through it. Later the free neutrons are unstable and then decay into electrons and protons that are trapped in the radiation belts. And this is why there are charged particles trapped in the atmosphere that hasn’t been deflected by the geomagnetic field.
   
 ● near the poles, the particles follow the lines of the magnetic field until they reach the poles without undergoing any deflection. When cosmic rays arrive towards the magnetic poles and lose altitude they interact with the Earth's ionosphere. In this way, they excite the atoms in the atmosphere and emit light, forming the Northern Lights.
   
@@ -70,7 +70,7 @@ previous point.
 Based on the numerous studies mentioned above, the hypothesis we would
 like to test in this experiment is the following:
 
-● The formation of clouds at low altitude in the period of the low solar wind, therefore with a greater influx of cosmic rays on the Earth's surface and especially in the SAA where the magnetic field is no longer able to deflect cosmic rays.
+● The formation of clouds at low altitude in the period of the low solar wind, therefore with a greater influx of cosmic rays on the Earth's surface and            especially in the SAA where the magnetic field is no longer able to deflect cosmic rays.
 
 On our part, there will then be a verification of the data received to try to
 understand if the observed phenomenon depended on the aforementioned

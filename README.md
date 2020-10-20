@@ -1,4 +1,4 @@
-[**Astropi**](https://astro-pi.org/)
+[**AstroPi**](https://astro-pi.org/)
 
 # CMC
 > **C**louds and **M**agnetic field **C**correlation
@@ -15,18 +15,22 @@
 Hi, we are the C.M.C. team (Clouds and Magnetic field Correlation) and we
 come from Cuneo.
 
-We are two guys named <a href="github.com/IsabellaBianco" target="_blank">[Isabella Bianco] and <a href="github.com/GabrieleFerrero" target="_blank">[Gabriele Ferrero] and we attend
+We are two guys named [**Isabella Bianco**](github.com/IsabellaBianco) and [**Gabriele Ferrero**](github.com/GabrieleFerrero) and we attend
 the fourth grade, branch smart robot of ITIS Mario Delpozzo in Cuneo.
  
 ## 2. What we expect ...
 The objectives of our project are the following:
 ● to better understand the indirect influence of the magnetic field on life
   on planet Earth;
+  
 ● confirm the relationship between geomagnetic field, cosmic rays and
   clouds formation;
+  
 ● understand the influence of the sun (solar wind) on the Earth's climate
   and atmospheric conditions;
+  
 ● better study the SAA (South Atlantic Anomaly);
+
 ● observe the change in the magnetic field from the latest detections of it;
 
 ## 3. Expected results

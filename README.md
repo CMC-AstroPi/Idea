@@ -9,6 +9,7 @@
 - [4. The project...](#4-The-project)
 - [5. Data collection...](#5-Data-collection)
 - [6. Data analysis...](#6-Data-analysis)
+- [7.Where will we do our analyses ...](#7-Where-will-we-do-our-analyses)
 
 
 ## 1. Short Presentation...
@@ -113,7 +114,8 @@ elements already mentioned above among the causes.
 In addition, we will also observe if the magnetic field measurements have
 changed from the last ones (2019), we will import them into a graph and
 observe the variations of it compared to the magnetic field of the past years.
-Where will we do our analyses ...
+
+## 7. Where will we do our analyses ...
 For this project, we have decided to open a new account on the GitHub
 platform for several reasons.
 The first, and probably the most significant one, is to keep each other always

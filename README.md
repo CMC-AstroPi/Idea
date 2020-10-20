@@ -1,4 +1,4 @@
-[**AstroPi**](https://astro-pi.org/)
+[**Astro Pi**](https://astro-pi.org/)
 
 # CMC:
 **C**louds and **M**agnetic field **C**correlation

@@ -9,7 +9,7 @@
 - [4. The project...](#4-The-project)
 - [5. Data collection...](#5-Data-collection)
 - [6. Data analysis...](#6-Data-analysis)
-- [7. Where will we do our analyses ...](#7-Where-will-we-do-our-analyses)
+- [7. Where will we do our analyses...](#7-Where-will-we-do-our-analyses)
 
 
 ## 1. Short Presentation...
@@ -19,7 +19,7 @@ come from Cuneo.
 We are two guys named [**Isabella Bianco**](https://github.com/IsabellaBianco) and [**Gabriele Ferrero**](https://github.com/GabrieleFerrero) and we attend
 the fourth grade, branch smart robot of [**ITIS Mario Delpozzo**](https://www.itiscuneo.gov.it/) in Cuneo.
  
-## 2. What we expect ...
+## 2. What we expect...
 The objectives of our project are the following:
 
 ● to better understand the indirect influence of the magnetic field on life
@@ -35,7 +35,7 @@ The objectives of our project are the following:
 
 ● observe the change in the magnetic field from the latest detections of it;
 
-## 3. Expected results
+## 3. A little theory...
 Cosmic rays are charged particles so they interfere with the Earth's magnetic
 field and can get there in two ways regarding the field, near the Equator or
 near the poles:
@@ -81,7 +81,7 @@ our analysis would like to try to analyze the data received to understand if
 these phenomena are dependent on them or are pure chance, or still linked
 by information different from what we think.
 
-## 5. Data collection ...
+## 5. Data collection...
 During phase 2 of the test, with the experimentation of the Astro-pi we had
 thought of obtaining information on two particular phenomena: namely the
 clouds and the Earth's magnetic field.
@@ -99,7 +99,7 @@ Furthermore, if there is a moment of absence of cloud cover, we will still detec
 the Earth's magnetic field so that during the data analysis we can also take
 this absence as important information.
 
-## 6. Data analysis ...
+## 6. Data analysis...
 Once we have received the data, at the end of the experiment, we will divide
 them according to the latitude and we will make an average calculation of the
 cloud presence for each value.
@@ -115,7 +115,7 @@ In addition, we will also observe if the magnetic field measurements have
 changed from the last ones (2019), we will import them into a graph and
 observe the variations of it compared to the magnetic field of the past years.
 
-## 7. Where will we do our analyses ...
+## 7. Where will we do our analyses...
 For this project, we have decided to open a new account on the GitHub
 platform for several reasons.
 The first, and probably the most significant one, is to keep each other always

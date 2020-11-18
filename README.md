@@ -1,7 +1,7 @@
 [**Astro Pi**](https://astro-pi.org/)
 
 # CMC:
-**C**louds and **M**agnetic field **C**rrelation
+**C**louds and **M**agnetic field **C**orrelation
 
 - [1. Short Presentation...](#1-Short-Presentation)
 - [2. What we expect...](#2-What-we-expect)
